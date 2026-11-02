@@ -1,2 +1,2 @@
-# emby-rules
+# stash
 Emby Clash/Stash rules: Emby.list (proxy) + EmbyDirect.list (direct)
