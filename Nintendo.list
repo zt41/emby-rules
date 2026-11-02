@@ -1,0 +1,16 @@
+# Nintendo 走代理规则
+DOMAIN-SUFFIX,nintendo.com
+DOMAIN-SUFFIX,nintendo.net
+DOMAIN-SUFFIX,nintendowifi.net
+DOMAIN-SUFFIX,nintendo.co.jp
+DOMAIN-SUFFIX,nintendo.co.uk
+DOMAIN-SUFFIX,nintendo-europe.com
+DOMAIN-SUFFIX,nintendo.com.hk
+DOMAIN-SUFFIX,nintendo.com.tw
+DOMAIN-SUFFIX,nintendo.co.kr
+DOMAIN-SUFFIX,nintendo.com.au
+DOMAIN-SUFFIX,nintendo.co.nz
+DOMAIN-SUFFIX,nintendoswitch.com
+DOMAIN-SUFFIX,nintendo-switch-online.com
+DOMAIN-SUFFIX,nintendocdn.com
+DOMAIN-SUFFIX,nintendojpn.com
