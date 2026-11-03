@@ -534,12 +534,12 @@ rule-providers:
     behavior: classical
     format: text
     interval: 86400
-    url: https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Rules/AppleProxyService.list
+    url: https://github.com/QuixoticHeart/rule-set/raw/refs/heads/ruleset/stash/apple-proxy.list
   Apple:
     behavior: classical
     format: text
     interval: 86400
-    url: https://raw.githubusercontent.com/Coldvvater/Mononoke/master/Stash/Rules/Apple.list
+    url: https://github.com/QuixoticHeart/rule-set/raw/refs/heads/ruleset/stash/apple-cn.list
   Google:
     behavior: classical
     format: text
